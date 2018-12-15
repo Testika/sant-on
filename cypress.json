@@ -1,0 +1,12 @@
+{
+  "baseUrl": "https://new.santehnika-online.ru/",
+  "blacklistHosts": [
+    "*.mail.ru",
+    "*.google.ru",
+    "*.yandex.ru",
+    "*.owox.com",
+    "*.googletagmanager.com",
+    "*.facebook.net"
+
+  ]
+}
